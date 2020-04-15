@@ -1,0 +1,263 @@
+html {
+    overflow-y: hidden;
+    margin: 0;
+    padding: 0;
+}
+body {
+    margin: 0;
+    padding: 0;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background: linear-gradient(rgba(255, 248, 230, 0.5), rgba(255, 248, 230, 0.5)), url("../images/paper.png");
+    font-family: 'Raleway', Helvetica, Arial, sans-serif;
+}
+
+h1, h4, p {
+    margin: 0;
+}
+
+h1 {
+    font-size: 20px;
+}
+
+p {
+    line-height: 1.5em;
+    font-size: 12px;
+    padding-bottom: 8px;
+}
+
+pre {
+    margin-left: 8px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+
+    font-family: 'Raleway', Helvetica, Arial, sans-serif;
+    line-height: 1.5em;
+    font-size: 12px;
+
+    white-space: pre-wrap;
+    white-space: -moz-pre-wrap;
+    white-space: -pre-wrap; 
+    white-space: -o-pre-wrap;
+    word-wrap: break-word;
+}
+
+.page {
+    min-height: 100vh;
+    min-height: calc(var(--vh, 1vh) * 100);
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.wrapper {
+    display: flex;
+    flex-direction: row;
+    width: 900px;
+    margin: 0 auto;
+}
+
+.commentary {
+    margin: 0 auto;
+    padding: 16px 0px;
+}
+
+.commentary h1 {
+    font-family: 'Rock Salt', cursive;
+}
+
+.commentary button {
+    font-weight: 600;
+    font-size: 12px;
+    font-family: 'Rock Salt', cursive;
+    border-radius: 5px;
+    padding: 4px 16px;
+    border: none;
+    background-color: #e733ff;
+    color: #fff;
+}
+
+.title {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: -30px;
+}
+
+.title h1 {
+    font-family: 'Rock Salt', cursive;
+    margin-bottom: -15px;
+    margin-top: -10px;
+    font-size: 36px;
+}
+
+.title p {
+    text-transform: uppercase;
+    font-family: 'Raleway', sans-serif;
+    font-size: 20px;
+    padding-bottom: 8px;
+}
+
+#movie-era-tooltip {
+    position: absolute;
+    padding: 10px 16px 12px 16px;
+    border-radius: 5px;
+}
+
+.movie-data .movie-title {
+    margin: 0px;
+}
+
+#disney-era-blurb {
+    /*margin-bottom: 10px;*/
+    height: 250px;
+    position:relative;
+}
+
+#disney-era-blurb button {
+    font-size: 10px;
+    padding: 8px 8px;
+    font-family: 'Raleway', sans-serif;
+    text-transform: uppercase;
+}
+
+#node-link-tooltip, #area-tooltip {
+    position: absolute;
+    padding: 10px 16px 12px 16px;
+    border-radius: 5px;
+}
+
+.movie-title, .year {
+    font-family: 'Rock Salt', cursive;
+}
+
+.movie-tooltip {
+    background-color:#a83232;
+    color: #fff;
+}
+
+.actor-tooltip {
+    background-color: #fab507;
+    color: #333;
+    max-width: 250px;
+    min-width: 225px;
+}
+
+#area-tooltip {
+    background-color: #2B2D2F;
+    color: #fff;
+}
+
+.role-tooltip {
+    text-align: center;
+    background-color: #333333;
+    color: #fff;
+}
+
+line.link:hover {
+    stroke: black;
+    stroke-width: 4px;
+}
+
+#era-navigation {
+    display: flex;
+    flex-direction: row;
+}
+
+#era-navigation button {
+    display: flex;
+    flex-direction: row;
+    flex-grow: 1;
+    padding: 8px 18px;
+    border: none;
+    font-size: 12px;
+    font-weight: bold;
+    text-transform: uppercase;
+    color: #fff;
+    font-family: Raleway, sans-serif;
+}
+
+#node-link {
+    padding-left: 8px;
+}
+
+#landing button {
+    font-weight: 600;
+    font-size: 12px;
+    font-family: 'Rock Salt', cursive;
+    border-radius: 5px;
+    padding: 4px 16px;
+    border: none;
+    background-color: #e733ff;
+    color: #fff;
+}
+
+.character-image {
+    height: 150px;
+    width: 150px;
+    background-color: white;
+    border-radius: 10%
+}
+
+.blurb-details h1 {
+    font-size: 18px;
+    color: black;
+}
+
+.blurb-details p {
+    font-size: 11px;
+}
+
+.blurb-details h3 {
+    margin: 0;
+    padding-bottom: 8px;
+    font-size: 16px;
+}
+
+#previous-era, #next-era {
+    margin-top: 15px
+}
+
+.selection {
+    fill: #d9c48d;
+}
+
+#walt-disney-company {
+    width: 900px;
+}
+
+#back-to-top {
+    position: fixed;
+    bottom: 30px;
+    right: 100px;
+}
+
+#back-to-top button {
+    height: 35px;
+    width: 35px;
+    border-radius: 25px;
+    background-color: #e733ff;
+    border: none;
+    font-weight: bold;
+    color: white;
+    font-family: 'Rock Salt', cursive;
+}
+
+#blurb-navigation-wrapper {
+    position: absolute;
+    bottom: 0px;
+    width: 100%;
+    padding-bottom: 8px;
+}
+
+#blurb-navigation {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.fun-fact {
+    padding: 30px;
+}

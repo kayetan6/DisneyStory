@@ -1,0 +1,80 @@
+movie_title,release_date,rating,runtime,director,box_office,Award
+Steamboat Willie,1/1/1929,7.6,8,Ub Iwerks and Walt Disney,0,
+Snow White and the Seven Dwarfs,12/21/1937,7.6,83,David Hand,58380000,1938:Special Award
+Pinocchio,2/7/1940,7.4,88,Ben Sharpsteen,27830000,1940:Music (Original Score)
+Fantasia,11/13/1940,7.8,126,Ben Sharpsteen,21310000,1941:Special Award;1941:Special Award
+The Reluctant Dragon,6/20/1941,6.9,74,Alfred L. Werker and Hamilton Luske,960000,
+Dumbo,10/23/1941,7.2,64,Ben Sharpsteen,1300000,1941:Music (Scoring of a Musical Picture)
+Bambi,8/13/1942,7.3,70,David Hand,23130000,
+Saludos Amigos,2/6/1943,6.2,42,Jack Kinney,1135000,
+The Three Caballeros,2/3/1945,6.5,71,Norman Ferguson,3355000,
+Make Mine Music,4/20/1946,6.3,75,Jack Kinney,3275000,
+Song of the South,11/20/1946,7.1,94,Harve Foster and Wilfred Jackson,65000000,1947:Special Award
+Fun and Fancy Free,9/27/1947,6.6,73,Jack Kinney,3165000,
+Melody Time,5/27/1948,6.4,75,Clyde Geronimi,2560000,
+The Adventures of Ichabod and Mr. Toad,10/5/1949,7,68,Jack Kinney,1625000,
+Cinderella,2/15/1950,7.3,75,Wilfred Jackson,26460000,
+Alice in Wonderland,7/28/1951,7.4,75,Clyde Geronimi,5600000,
+Peter Pan,2/5/1953,7.3,76,Hamilton Luske,21750000,
+Lady and the Tramp,6/22/1955,7.3,76,Hamilton Luske,15640000,
+Sleeping Beauty,1/29/1959,7.2,75,Clyde Geronimi,7300000,
+101 Dalmatians,1/25/1961,7.2,79,Wolfgang Reitherman,34260000,
+The Sword in the Stone,12/25/1963,7.2,79,Wolfgang Reitherman,6350000,
+The Jungle Book,10/18/1967,7.6,78,Wolfgang Reitherman,23750000,
+The Aristocats,12/24/1970,7.1,79,Wolfgang Reitherman,10000000,
+Robin Hood,11/8/1973,7.6,83,Wolfgang Reitherman,32000000,
+The Many Adventures of Winnie the Pooh,3/11/1977,7.6,74,Wolfgang Reitherman,0,
+The Rescuers,6/22/1977,6.9,77,Wolfgang Reitherman,22510000,
+The Fox and the Hound,7/10/1981,7.3,83,Art Stevens,14150000,
+The Black Cauldron,7/24/1985,6.4,80,Ted Berman,10020000,
+The Great Mouse Detective,7/2/1986,7.2,74,Ron Clements,38700000,
+Oliver & Company,11/18/1988,6.7,74,George Scribner,74200000,
+The Little Mermaid,11/17/1989,7.6,83,Ron Clements,75250000,1989:Music (Original Score)
+The Rescuers Down Under,11/16/1990,6.9,77,Mike Gabriel,18880000,
+Beauty and the Beast,11/22/1991,8,84,Gary Trousdale,115610000,1991:Music (Original Score)
+Aladdin,11/25/1992,8,90,Ron Clements,137840000,1992:Music (Original Score)
+The Lion King,6/24/1994,8.5,88,Roger Allers,93960000,1994:Music (Original Score)
+A Goofy Movie,4/7/1995,6.8,78,Kevin Lima,35300000,
+Pocahontas,6/23/1995,6.7,81,Mike Gabriel,82940000,1995:Music (Original Musical or Comedy Score)
+Toy Story,11/22/1995,8.3,91,John Lasseter,189460000,1995:Special Achievement Award
+The Hunchback of Notre Dame,6/21/1996,6.9,93,Gary Trousdale,57500000,
+Hercules,6/27/1997,7.3,87,Ron Clements,54600000,
+Mulan,6/19/1998,7.6,88,Barry Cook,70370000,
+A Bug's Life,11/25/1998,7.2,74,John Lasseter,161330000,
+Tarzan,6/18/1999,7.3,82,Chris Buck,105630000,
+Toy Story 2,11/24/1999,7.9,78,John Lasseter,244890000,
+Fantasia 2000,1/1/2000,7.2,96,James Algar,38920000,
+Dinosaur,5/19/2000,6.5,85,Ralph Zondag,106660000,
+The Emperor's New Groove,12/15/2000,7.3,95,Mark Dindal,48600000,
+Atlantis: The Lost Empire,6/15/2001,6.9,85,Gary Trousdale,69200000,
+"Monsters, Inc.",11/2/2001,8,76,Pete Docter,254270000,
+Return to Never Land,2/15/2002,5.8,72,Robin Budd and Donovan Cook,109000000,
+Lilo & Stitch,6/21/2002,7.2,81,Chris Sanders,144570000,
+Treasure Planet,11/27/2002,7.2,94,Ron Clements,37820000,
+Finding Nemo,5/30/2003,8.1,96,Andrew Stanton,338550000,2003:Animated Feature Film
+Brother Bear,11/1/2003,6.8,97,Robert Walker,84890000,
+Home on the Range,4/2/2004,5.3,100,Will Finn,145500000,
+The Incredibles,11/5/2004,8,63,Brad Bird,260270000,2004:Animated Feature Film;2004:Sound Editing
+Pooh's Heffalump Movie,2/11/2005,6.4,68,Frank Nissen,52900000,
+Chicken Little,11/4/2005,5.7,101,Mark Dindal,134630000,
+Cars,6/9/2006,7.1,102,John Lasseter,243700000,
+Meet the Robinsons,3/30/2007,6.8,102,Stephen J. Anderson,96850000,
+Ratatouille,6/29/2007,8,108,Brad Bird,205350000,2007:Animated Feature Film
+WALL-E,6/27/2008,8.4,107,Andrew Stanton,222830000,2008:Animated Feature Film
+Bolt,11/21/2008,6.8,81,Chris Williams,112800000,
+Up,5/29/2009,8.2,95,Pete Docter,291310000,2009:Animated Feature Film;2009:Music (Original Score)
+The Princess and the Frog,12/11/2009,7.1,92,Ron Clements,102430000,
+Toy Story 3,6/18/2010,8.3,92,Lee Unkrich,413790000,2010:Animated Feature Film
+Tangled,11/24/2010,7.7,100,Nathan Greno,198856000,
+Cars 2,6/24/2011,6.1,115,John Lasseter,190680000,
+Winnie the Pooh,7/15/2011,7.2,116,Stephen J. Anderson,25900000,
+Brave,6/22/2012,7.1,111,Mark Andrews,236310000,2012:Animated Feature Film
+Wreck-It Ralph,11/2/2012,7.7,97,Rich Moore,188680000,
+Monsters University,6/21/2013,7.3,96,Dan Scanlon,267250000,
+Frozen,11/27/2013,7.5,103,Jennifer Lee,400560000,2013:Animated Feature Film
+Big Hero 6,11/7/2014,7.8,106,Don Hall,220730000,2014:Animated Feature Film
+Inside Out,6/19/2015,8.2,93,Pete Docter,355690000,2015:Animated Feature Film
+The Good Dinosaur,11/25/2015,6.7,104,Peter Sohn,120620000,
+Zootopia,3/4/2016,8,94,Byron Howard,341270000,
+Finding Dory,6/17/2016,7.3,94,Andrew Stanton,486290000,
+Moana,11/23/2016,7.6,97,Ron Clements,248760000,

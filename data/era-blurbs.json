@@ -1,0 +1,77 @@
+{
+    "Pre-Golden Age": {
+        "years": "1928 - 1936",
+        "description": "The Pre-Golden Age set the stage for Disney as we know it. In 1928, Walt Disney and animator Ub Iwerks created one of the most recognizable animated characters of all time: Mickey Mouse. The mouse was featured in Steamboat Willie, the first Disney cartoon to be synchronized with sound. It was an instant success, receiving critical acclaim for this technical innovation. Following the success, a series of Mickey Mouse cartoons were released which saw the introduction of many staple Disney characters including Minnie Mouse, Pluto and Goofy."
+    }, 
+    "Golden Age": {
+        "years": "1937 - 1942",
+        "description": "The Golden Age began with in 1937 with the release of Snow White and the Seven Dwarfs. It made cinematic history as the first feature-length animated film, establishing Disney as one of the leaders of animated filmmaking. Most of the other films of this era, though now viewed as all-time classics, did not see the same success. Despite the box office disappointments, this time is still considered the Golden Age because of the trends, quality and technical achievements that were created."
+    }, 
+    "Wartime Era": {
+        "years": "1943 - 1949",
+        "description": "Following the bombing of Pearl Harbour and the USA’s entry into World War II, Disney Studios experienced lower budgets and dwindling animation teams as many animators were lost to the war effort. Without the manpower to release full-length films, the studio released “package films” consisting of a series of individual short films that were loosely connected around a central theme. These films were largely criticized by fans due to their lack of consistency and tone."
+    }, 
+    "Silver Age": {
+        "years": "1950 - 1969",
+        "description": "The Silver Age saw the revival of Disney Studios. Disney returned to the classic fairytale and storybook storytelling of the early classics with gorgeous big-budget featured films. They were filled with beautiful animations, complex characters, and fantastical stories. The end of the Silver Age was marked by The Jungle Book which was the last film that Walt Disney himself worked on before his death in 1966."
+    }, 
+    "Dark Age": {
+        "years": "1970 - 1988",
+        "description": "The Dark Age, following the passing of Walt Disney, saw Disney Studios struggle to find their way. It was a difficult time of trial-and-error as animators explored different and interesting ideas. Unfortunately, most of the films of this time were unable to draw audiences the same way their predecessors could and were unable to capture the 'magic' associated with Disney. By the end of this era, the studio was starting to see real competition arise from other shops and was losing their strong hold on the animation box office."
+    },
+    "Disney Renaissance": {
+        "years": "1989 - 1999",
+        "description": "Following huge disappointments in the Dark Age, Disney Studios was in dire need of a comeback. That comeback came in the form of The Little Mermaid. Making a return to the music-driven, beautifully drawn fairytale style, The Little Mermaid sparked life into the fading empire and triggered a veritable avalanche of theatrical hit after theatrical hit. Each one of the animated musicals released in the era captured the magic of Disney. Possibly the most agreed upon era in Disney filmmaking, the Disney Renaissance is widely considered to be the pinnacle of Disney films."
+    }, 
+    "Post-Renaissance": {
+        "years": "2000 - 2009",
+        "description": "Films of the Post-Renaissance did not share commonalities between each other like the films in previous Disney filmmaking eras. The Post-Renaissance is defined by the sheer variety of the films as it was a time of exploration and experimentation. Disney was moving away from the ‘Renaissance formula’ of musical, coming-of-age stories and was delving into new styles and genres of storytelling, including sci-fi adventures and buddy-comedies. The company also began experimenting with new CGI technologies. This era served as a transition period from old storytelling to new storytelling, and from traditional animation to CG animation."
+    }, 
+    "Second Disney Renaissance": {
+        "years": "2010 - 2019",
+        "description": "The Second Renaissance is flush with financially and critically successful films. Heralded by the acclaimed The Princess and the Frog, The Second Disney Renaissance quickly welcomed film after film that were imbued with masterful storytelling and innovation. From Tangled, which artfully blended their traditional animation techniques with new CGI, to Frozen the highest grossing animated film of all time, The Second Disney Renaissance has proven itself unreserved in its efforts to build upon the ingenuity and the nostalgia of the past to bring to the new generation stories that are as majestic and engaging as the best of its predecessors."
+    },
+    "Fun Fact": [
+        "Walt Disney originally named his iconic character Mortimer. Thankfully, his wife persuaded him that Mickey had a better ring to it.",
+        "Mickey Mouse made his first appearance in the 1928 test screening of a short film entitled Plane Crazy",
+        "Minnie Mouse's name is actually Minerva.",
+        "The sorcerer from Fantasia, Yen Sid, may ring a bell if read backwards",
+        "When Disneyland was first built, Walt Disney also built an apartment for his family above the fire department on Main Street. A lamp in the window signalled to the staff that he was in residence. The lamp is now always alight in his honor",
+        "Aurora from Sleeping Beauty only has a mere 18 lines of dialogue and just 18 minutes of screen time in her own film.",
+        "Monsters Inc.'s Sulley has more than 2.3 million individual hairs all of which are carefully animated. It took an average of 12 hours to produce a single frame of the lovable blue scarer.",
+        "The lions' roars were actually not used in the Lion King as they aren't very powerful. Instead, a combination of tiger roars and Frank Welker's garbage can roars were used.",
+        "Simba is Swahili for 'lion' and Bhalu (Baloo) is Hindi for 'bear.'",
+        "Bruce, the vegetarian shark in Finding Nemo, is named after Steven Spielberg's animatronic shark from Jaws.",
+        "In 1991, Wayne Anthony Allwine, who was the voice of Mickey Mouse for 32 years, got hitched to Russi Taylor, who played Minnie.",
+        "Mickey Mouse was the first animated character to receive a star on the Hollywood Walk of Fame.",
+        "The two minute storm in The Little Mermaid took 10 special effects artists over a year to complete.",
+        "Mickey Mouse was the first animated character to talk. His first words were 'Hot dog!'",
+        "Beast from Beauty and the Beast is a blend of several animals. The mane of a lion, the horns and head of a buffalo, the eyebrows of a gorilla, the tusks of a wild board, the upper body of a bear, and the legs and tail of a wolf,",
+        "Walt Disney placed garbage bins at Disney World 25 steps away from the hot dog stall because this was how long it took for him to eat a hot dog.",
+        "To achieve a natural skin tone for Snow White, real blush was applied to the animated cells.",
+        "Until Brave, Ariel was the only Disney princess to have siblings - the rest are all only children.",
+        "The vultures in The Jungle Book were designed for the Beatles.",
+        "After the release of the Lion King, a hyena researcher sued Disney for defamation of character and criticized the movie's representation of the animals.",
+        "Pumba was the first Disney character to fart on-screen.",
+        "Scar is the only lion in the Lion King that has claws.",
+        "When creating 101 Dalmations, artists used over 800 gallons of special paint. That is enough to cover 15 football fields.",
+        "There are a total of 6, 469, 952 spots in 101 Dalmations. 72 belong to Pongo, 68 belong to Perdita, and the remaining belong to the puppies.",
+        "Beauty and the Beast was the first animated film nominated for Best Picture at the Academy Awards.",
+        "Aladdin was the first movie where the voice actors didn't sing their character's songs. Lea Salonga sang for Princess Jasmine while Linda Larkin voiced her.",
+        "Animators recycled the animation from Sleeping Beauty for the final dance scene in Beauty and the Beast.",
+        "Frozen's Anna is the first Disney princess to have a duet with a villian.",
+        "Dumbo is the only title character that never speaks in a film.",
+        "Dumbo is the shortest feature-length Disney film at just 64 minutes long.",
+        "Compared to the cost of production, Sleeping Beauty bombed at the box office. So much so that the company decided that princess movies were not their path to success. They didn't make another princess movie until 30 years later when The Little Mermaid was released in 1989.",
+        "The Aristocats was the last film to be approved by Walt Disney himself. As such, it is the last film to end with the line 'A Walt Disney Production.'",
+        "To land Robin Williams for Aladdin, animators created test sequences of the Genie performing the comedian's stand-up routines.",
+        "Walt Disney kept live animals on some productions so the animators could use them as reference.",
+        "During production, Toy Story 2 was accidentally deleted when a Pixar employee ran the wrong Unix command. Luckily, one of the Pixar employees was working from home due to her pregnancy and had a copy of the movie on her home computer.",
+        "Tangled is one of the most expensive movie ever made with a production cost estimated to be $260 million.",
+        "Frozen was the first animated Disney film to be directed by a woman.",
+        "It took six Pixar research engineers and artists more than three years to bring Merida's (Brave) curly red hair to life.",
+        "Reese Witherspoon originally signed up to voice Merida in Brave but quit because of her terrible Scottish accent.",
+        "Hans, Kristoff, Anna, and Sven were all named after Hans Christian Anderson, the creator of Snow Queen on which Frozen was based.",
+        "Snow White and the Seven Dwarfs received a special Academy Award featuring an Oscar and seven smaller sized awards."
+    ]
+}

@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>The Disney Story</title>
+    <link rel="stylesheet" type="text/css" href="css/style.css">
+    <link href="https://fonts.googleapis.com/css?family=Raleway|Rock+Salt&display=swap" rel="stylesheet">
+</head>
+
+<body>
+<div id="landing" class="page">
+    <div >
+        <img src="./images/disney_castle.PNG"/>
+        <div class="title">
+            <h1>The Disney Story</h1>
+            <p>in data</p>
+            <a href="#walt-disney-company"><button>start</button></a>
+        </div>
+    </div>
+</div>
+<div id="walt-disney-company" class="page">
+    <div class="commentary">
+        <h1>The Animation Studio in the Walt Disney Company</h1>
+        <p>The Walt Disney Company is an entertainment goliath. From their infamous parks and resorts to their vast
+            array of TV networks, the company brings in billions of dollars of revenue annually.
+            The company continues to see massive growth and expansion across all of its sectors year after year.
+            And, while the company is constantly changing, one thing will always remain true: none of this would
+            have been possible
+            without Walt Disney Animation. It is the core of the Studio Entertainment division and the foundation on
+            which the entire company was built. Disney Animation has a long and storied history. Let's dive in!</p>
+        <a href="#node-link-graph"><button>next  ></button></a>
+    </div>
+    <div id="area" class="wrapper">
+        <svg id="revenue-overall"></svg>
+    </div>
+</div>
+<div id="node-link-graph" class="page">
+    <div id="era-navigation">
+        <button type="button" id="pre-golden-age-btn" value="Pre-Golden Age">Pre-Golden Age</button>
+        <button type="button" id="golden-age-btn" value="Golden Age">Golden Age</button>
+        <button type="button" id="wartime-era-btn" value="Wartime Era">Wartime Era</button>
+        <button type="button" id="silver-age-btn" value="Silver Age">Silver Age</button>
+        <button type="button" id="dark-age-btn" value="Dark Age">Dark Age</button>
+        <button type="button" id="renaissance-btn" value="Disney Renaissance">Disney Renaissance</button>
+        <button type="button" id="post-renaissance-btn" value="Post-Renaissance">Post-Renaissance</button>
+        <button type="button" id="second-renaissance-btn" value="Second Disney Renaissance">Second Disney
+            Renaissance</button>
+    </div>
+    <div class="wrapper">
+        <div class="aside">
+            <div class = "commentary disney-era" id="disney-era-blurb">
+                <div class="blurb-details">
+                    <h1>Pre-Golden Age</h1>
+                    <h3>1928 - 1936</h3>
+                    <p>The Pre-Golden Age set the stage for Disney as we know it. In 1928, Walt Disney and animator Ub Iwerks created one of the most recognizable animated characters of all time: Mickey Mouse. The mouse was featured in Steamboat Willie, the first Disney cartoon to be synchronized with sound. The film was an instant success, receiving critical acclaim for this technical innovation. This success resulted in a series of Mickey Mouse cartoons to be released which saw the introduction of many staple Disney characters including Minnie Mouse, Pluto and Goofy.</p>
+                </div>
+                <div id="blurb-navigation-wrapper">
+                    <div id="blurb-navigation">
+                        <button id="previous-era" style="visibility: hidden">previous era</button>
+                        <button id="next-era" style="visibility: visible; background-color: #FFAABB">next era</button>
+                    </div>
+                </div>
+            </div>
+            <div id="legend">
+                <svg id="legend-plot"></svg>
+            </div>
+        </div>
+        <div id="node-link">
+            <svg id="movie-actors"></svg>
+        </div>
+    </div>
+    <div class="wrapper">
+    <div id="dot-histogram">
+        <svg id="movie-era"></svg>
+    </div>
+    </div>
+<!--    </div>-->
+</div>
+<div id='area-tooltip'></div>
+<div id="node-link-tooltip"></div>
+<div id="movie-era-tooltip"></div>
+<div id="back-to-top">
+    <a href="#landing"><button>^</button></a>
+</div>
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+<script src="https://d3js.org/d3.v5.min.js"></script>
+<script src="js/area.js"></script>
+<script src="js/legend.js"></script>
+<script src="js/dotplot.js"></script>
+<script src="js/dataProcessor.js"></script>
+<script src="js/nodelink.js"></script>
+<script src="js/index.js"></script>
+</body>
+
+</html>
